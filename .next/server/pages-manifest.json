@@ -1,0 +1,18 @@
+{
+  "/_app": "pages/_app.js",
+  "/_document": "pages/_document.js",
+  "/about": "pages/about.js",
+  "/api/hello": "pages/api/hello.js",
+  "/contact": "pages/contact.js",
+  "/": "pages/index.js",
+  "/portfolio/1": "pages/portfolio/1.js",
+  "/portfolio/2": "pages/portfolio/2.js",
+  "/portfolio/3": "pages/portfolio/3.js",
+  "/portfolio/[id]": "pages/portfolio/[id].js",
+  "/portfolio/work": "pages/portfolio/work.js",
+  "/portfolio/workposts": "pages/portfolio/workposts.js",
+  "/posts/[id]": "pages/posts/[id].js",
+  "/posts/blog": "pages/posts/blog.js",
+  "/posts/posts": "pages/posts/posts.js",
+  "/_error": "pages/_error.js"
+}

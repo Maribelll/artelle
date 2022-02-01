@@ -1,0 +1,30 @@
+.toolall {
+  background: linear-gradient(180deg, #f7f7fa 0%, #ffffff 100%);
+
+  .tools {
+    max-width: 1440px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    align-items: center;
+    flex-wrap: wrap;
+    margin: 0 auto;
+    justify-content: center;
+    .tool {
+      width: 16em;
+      margin: 0 3.5em;
+      h4 {
+        color: rgba(78, 147, 206, 1);
+      }
+    }
+  }
+}
+@media (max-width: 400px) {
+  .toolall {
+    .tools {
+      .tool {
+        margin: 0;
+      }
+    }
+  }
+}
